@@ -3,9 +3,6 @@
 
 Welcome to the **Blinkit Dashboard Overview** project! 🎉 This repository contains a comprehensive **Power BI** dashboard that answers key business questions and provides actionable insights using **sales data**, **outlet performance**, **product categories**, and **consumer health preferences**.
 
-Check out the full blog post for a deeper dive into the analysis and methodology behind the dashboard: [Blinkit Dashboard Overview - Medium](https://medium.com/@saibhargavkarnati/blinkit-dashboard-overview-40c3be472d1b) ✨
-
----
 
 ## 📋 Project Description
 
